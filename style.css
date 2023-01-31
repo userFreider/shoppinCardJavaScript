@@ -1,1 +1,11 @@
 
+
+
+.shop-items .card{
+    cursor: pointer;
+}
+
+.shop-item-price{
+    font-weight: bold;
+    color: #252553;
+}
